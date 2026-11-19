@@ -1,4 +1,4 @@
-[Home](/index.md)   [Services](/services.md)   [About](/about.md)
+[Home](/index.md)&nbsp;&nbsp;[Services](/services.md)&nbsp;&nbsp;[About](/about.md)
 
 # Services
 
