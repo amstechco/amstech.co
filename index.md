@@ -1,6 +1,6 @@
 [Home](/index.md)&nbsp;&nbsp;[Services](/services.md)&nbsp;&nbsp;[About](/about.md)
 
-# Alex Smith
+# AMS Tech Consulting
 
 ### What I Do
 
