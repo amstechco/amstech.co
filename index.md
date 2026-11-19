@@ -1,4 +1,4 @@
-[Home](/index.md) [Services](/services.md) [About](/about.md)
+[Home](/index.md)   [Services](/services.md)   [About](/about.md)
 
 # Alex Smith
 
